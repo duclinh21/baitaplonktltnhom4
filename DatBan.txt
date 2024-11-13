@@ -1,0 +1,12 @@
+Ten khach hang                |Sdt                           |Loai ban                      |So luong
+vu duc linh                   |0374599926                    |Ban VIP                       |2                             
+vu van linh                   |0565791488                    |Ban Thuong                    |2                             
+vu van a                      |0333972081                    |Ban VIP                       |2                             
+ok                            |434                           |Ban Thuong                    |1                             
+fefs                          |fef                           |Ban Thuong                    |1                             
+RG                            |GRG                           |Ban Thuong                    |1                             
+ggef                          |efe                           |Ban Thuong                    |1                             
+vu van b                      |012314                        |Ban Thuong                    |1                             
+vu duc linh                   |0374599926                    |Ban Thuong                    |2                             
+vu van c                      |12345                         |Ban Thuong                    |1                             
+vu van d                      |312321                        |Ban Thuong                    |3                             

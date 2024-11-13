@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "stacktrace": "cpp"
+    }
+}

@@ -1,0 +1,4 @@
+Ten Khach Hang                     |Sdt                           |Loai Ban                      |So Luong                      |Tong Tien
+Ten: vu duc linh                   |0374599926                    |Ban Thuong                    |2                             |6000000
+Ten: vu van c                      |12345                         |Ban Thuong                    |1                             |1000000
+Ten: vu van d                      |312321                        |Ban Thuong                    |3                             |3000000

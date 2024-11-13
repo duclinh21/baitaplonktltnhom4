@@ -1,0 +1,3 @@
+Ten nhan vien                |So dien thoai                 |So ma nhan vien                 |Luong
+vu van a                      |1234567                       |1                             |0                             
+tung                          |0359552326                    |111                           |480009                        

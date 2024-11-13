@@ -1,0 +1,4 @@
+Ten uu dai                    |Gia tri dau                   |Gia tri cuoi                  |Menh gia uu dai
+co ban                        |500000                        |2000000                       |5%                  
+dac biet                      |2000000                       |5000000                       |10%                 
+a                             |100000                        |500000                        |5%                  

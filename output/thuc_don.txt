@@ -1,0 +1,6 @@
+Ten Thuc Don        So Luong            Ngay Nhap           So Tien             
+rau                 3                   01/01/2023          20000               
+rau                 2                   01/01/2023          20000               
+rau                 2                   01/01/2023          20000               
+rau                 2                   01/01/2023          20000               
+rau                 2                   1/1/2023            20000               

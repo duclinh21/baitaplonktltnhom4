@@ -1,0 +1,6 @@
+Ten khach hang                |So dien thoai                 |So tien mua hang              |Muc uu dai
+vu duc linh                   |0374599926                    |100000                        |Khong co uu dai
+bui gia bao                   |0565791488                    |1000000                       |5%                  
+tung                          |75557676                      |2000000                       |5%                  
+vu van c                      |12345                         |1000000                       |5%                  
+vu van e                      |4324                          |300000                        |5%                  

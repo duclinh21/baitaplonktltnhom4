@@ -1,0 +1,4 @@
+Ten thuc pham                 |So luong                      |Gia tien                      |Tong gia
+gao                           |10                            |20000                         |200000                        
+dau an                        |2                             |30000                         |60000                         
+nuoc                          |10                            |20000                         |200000                        
